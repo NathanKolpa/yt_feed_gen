@@ -5,7 +5,7 @@ class yt_feed_gen extends Plugin {
 
 	function about() {
 		return array(1.0,
-			"Converts youtube channel urls to rss feeds when you paste them",
+			"Converts youtube channel urls to rss feed urls when you paste them",
 			"Nathan Kolpa");
 	}
 
